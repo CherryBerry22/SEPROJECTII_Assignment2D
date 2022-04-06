@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "202aec73-952f-4853-a1e3-ca07add78d29": {
+      "ProjectGuid": "202aec73-952f-4853-a1e3-ca07add78d29",
+      "DisplayName": "GraphTests",
+      "ColorIndex": 0
+    },
+    "76338b8d-1b58-42f9-93b8-eb15f206c04d": {
+      "ProjectGuid": "76338b8d-1b58-42f9-93b8-eb15f206c04d",
+      "DisplayName": "Assignment2D",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
